@@ -1,0 +1,3 @@
+* A plain-text file named README.txt which contains a description of how your program operates. In particular, if your program has any special features (e.g., animation, command-line arguments, etc.) or limitations, you should describe them here so that the grader is aware of them.
+
+The program compiles like any other assignment framework and gives the output. All the files are given in the zip  file. The program was checked to run on a cs machine and it compiled.
